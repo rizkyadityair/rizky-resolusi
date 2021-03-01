@@ -10,8 +10,9 @@ Resolusi 2021
 -Node.js
 Lulus tahun ini
 
+
 Tanggal 1 Bulan Maret 2021
 Target bisa frontend dan php
-semhas pkl
+semhas pkl bulan ini
 minggu pertama target frontend
 minggu kedua target php

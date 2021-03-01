@@ -1,3 +1,4 @@
 Rencana Program
+100 days of code dimulai dari tanggal 1 maret
 -Node.js
 -Javascript

@@ -8,6 +8,7 @@ Resolusi 2021
 *Backend
 -PHP
 -Node.js
+Lulus tahun ini
 
 Tanggal 1 Bulan Maret 2021
 Target bisa frontend dan php

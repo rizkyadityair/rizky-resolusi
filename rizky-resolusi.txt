@@ -1,0 +1,16 @@
+Rizky Resolusi
+Resolusi 2021
+*Frontend
+-HTML
+-CSS
+-Javascript
+-React
+*Backend
+-PHP
+-Node.js
+
+Tanggal 1 Bulan Maret 2021
+Target bisa frontend dan php
+semhas pkl
+minggu pertama target frontend
+minggu kedua target php
